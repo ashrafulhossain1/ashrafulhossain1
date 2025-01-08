@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Front-End Developer (jr)</h3>
+<h3 align="center">Junior Level Front-End Developer</h3>
 
 ###
 
