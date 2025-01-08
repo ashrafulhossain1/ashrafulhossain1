@@ -1,8 +1,6 @@
-# Hi there, I'm Ashraful Hossain! 👋
+# Hi there! 👋
 
-![Banner Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+Ashraful's+GitHub+Profile)
-
-### MERN Stack Developer | Passionate Coder | Lifelong Learner
+![Banner Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
 
 ---
 
@@ -73,7 +71,7 @@ A React-based web app for book lovers.
 ---
 
 ### 🏆 GitHub Stats
-![Ashraful's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafulhossain&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafulhossain&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulhossain&layout=compact&theme=radical)
 
