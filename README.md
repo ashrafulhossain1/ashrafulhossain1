@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">Front-End Developer</h2>
+<h3 align="center">Front-End Developer</h3>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Exploring the world of coding since 2020<br>📚 Currently learning advanced React and Next.js<br>🎯 Goal: To become a mid-level Developer by 2025<br>🎲 Fun fact: I thrive in challenging situations as they teach me valuable lessons.</p>
+<p align="left">✨ Exploring the world of coding since 2024<br>📚 Currently learning advanced React and Next.js<br>🎯 Goal: To become a mid-level Developer by 2025<br>🎲 Fun fact: I thrive in challenging situations as they teach me valuable lessons.</p>
 
 ###
 
