@@ -1,82 +1,75 @@
-# Hi there! 👋
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/ydYfgQm/ashraful-hossain-github-banner.jpg"  />
+</div>
 
-![Banner Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+###
 
----
+<h1 align="left">Ashraful Hossain</h1>
 
-### 🌍 Location & Email
-- **Location:** Bangladesh 🇧🇩
-- **Email:** [ashraful@example.com](mailto:ashraful@example.com)
+###
 
----
+<h2 align="left">Front-End Developer</h2>
 
-### 🔧 About Me
-Hi! I'm a 24-year-old MERN Stack Developer passionate about building scalable web applications and exploring cutting-edge technologies. I enjoy collaborating on exciting projects and sharing knowledge with the developer community.
+###
 
-#### Current Activities:
-- 🌟 I am exploring **NEXT.js**.
-- 🏖️ Working on a **Tourism Website**.
-- 📖 Constantly learning new tech and enhancing my skills.
+<h3 align="left">About Me</h3>
 
----
+###
 
-### 📊 Skills
+<p align="left">MARN stack developer from bangladesh. I makke beautiful fronmt-end projefct web appication.</p>
 
-#### Frontend:
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+###
 
-#### Backend:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: become a midlevel Developer in 2025<br>🎲 Fun fact: I love to stay in trubbeling time something learn of this situation.</p>
 
-#### Database:
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+###
 
-#### Tools & Platforms:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<h2 align="left">I code with</h2>
 
----
+###
 
-### 🌐 Social Links
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/ashrafulhossain)
-- **Portfolio:** [My Portfolio](https://profile-readme-generator.com)
-- **GitHub:** [GitHub Profile](https://github.com/ashrafulhossain)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 
----
+###
 
-### 📌 Pinned Repositories
+<h2 align="left">Social  Platform Links</h2>
 
-#### [Language Exchange](https://github.com/ashrafulhossain/language-exchange)
-An online tutor booking platform connecting users with tutors worldwide.
-- 🌐 **Live Link:** [Language Exchange](https://language-exchange.example.com)
-- 💻 **Tech Stack:** React, Node.js, MongoDB, Tailwind CSS
+###
 
-#### [IPL Website](https://github.com/ashrafulhossain/ipl-website)
-A platform for IPL enthusiasts with live updates and player stats.
-- 🌐 **Live Link:** [IPL Website](https://ipl-website.example.com)
-- 💻 **Tech Stack:** React, Node.js, Express.js, MongoDB
+<div align="left">
+  <a href="https://www.linkedin.com/in/ashrafulhossain1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/ahmeadashraful" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="ashrafulhossain0240" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
-#### [Boi-Poka](https://github.com/ashrafulhossain/boi-poka)
-A React-based web app for book lovers.
-- 🌐 **Live Link:** [Boi-Poka](https://boi-poka.example.com)
-- 💻 **Tech Stack:** React, Tailwind CSS, MongoDB
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrafulhossain1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafulhossain1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafulhossain1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-### 🏆 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafulhossain&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulhossain&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashrafulhossain&theme=radical)
-
----
-
-Feel free to connect with me and explore my repositories! 🚀
+###
