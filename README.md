@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Front-End Developer</h3>
+<h2 align="center">Junior Full Stack Web Developer</h2>
 
 ###
 
