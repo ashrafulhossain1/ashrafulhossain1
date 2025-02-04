@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/ydYfgQm/ashraful-hossain-github-banner.jpg" />
+  <img height="200" src="https://i.ibb.co.com/PvdHzjGf/github-banner.jpg" />
 </div>
 
 ###
