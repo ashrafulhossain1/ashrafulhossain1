@@ -20,7 +20,14 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: become a midlevel Developer in 2025<br>🎲 Fun fact: I love to stay in trubbeling time something learn of this situation.</p>
+
+- 🔭 I’m currently working on **[Your Current Project]**  
+- 🌱 I’m learning **[Technologies or Skills You're Learning]**  
+- 👯 I’m open to collaborating on **[Relevant Projects or Open Source Contributions]**  
+- 💬 Ask me about **[Your Strongest Skills]**  
+- 📫 How to reach me: **[Your Contact Info]**  
+- ⚡ Fun fact: **[Something Unique About You]**  
+
 
 ###
 
