@@ -4,7 +4,7 @@
 
 <h1 align="left">Ashraful Hossain</h1>
 
-<h2 align="left">Front-End Developer</h2>
+<h3 align="left">Junior Full Stack Web Developer</h3>
 
 <h3 align="left">About Me</h3>
 <p align="left">I am a web developer from Bangladesh. I specialize in creating beautiful and functional websites using modern web technologies like React, Next.js, and more. I enjoy learning new things and building projects that solve real-world problems.</p>
@@ -57,5 +57,6 @@
 ## 📊 GitHub Stats & 🚀 Most Used Languages  
 <div align="center" style="display: flex; flex-direction: row; justify-content: space-between; gap: 20px;">
   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=ashrafulhossain1&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulhossain1&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulhossain1&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" />
+
 </div>
