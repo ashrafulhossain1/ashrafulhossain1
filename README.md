@@ -2,6 +2,10 @@
   <img src="https://i.ibb.co.com/6RrJRNm6/github-banner-resized.jpg" />
 </div>
 
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=ashrafulhossain1&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
+</a>
+
 ###
 
 <h1 align="left">Ashraful Hossain</h1>
