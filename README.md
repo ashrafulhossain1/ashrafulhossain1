@@ -13,9 +13,8 @@
 ###
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrafulhossain1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafulhossain1&theme=tokyonight&hide_border=true" />
 </div>
-
 
 
 <h3 align="left">About Me</h3>
