@@ -10,10 +10,12 @@
 
 <h2 align="left">Front-End Developer</h2>
 
-### df
+## 📊 GitHub Streak  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulhossain1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ashrafulhossain1&theme=tokyonight&hide_border=true" />
 </div>
+
 
 
 <h3 align="left">About Me</h3>
