@@ -10,7 +10,7 @@
 <p align="left">Hi, I’m Ashraful Hossain, a self-motivated junior front-end developer passionate about programming since 2020—or earlier. Despite challenges, I left my coaching center in 2023, where I taught ICT and finance, to pursue coding—my true passion. I immersed myself in learning web development and building projects. Now, I’m on a journey to explore how much more I have to learn. With determination and a hunger for growth, I solve real-world problems and improve my skills daily. Programming is my ambition, and I’m excited to keep learning and growing every step of the way.</p>
 
 ## 🚀 Current Endeavors  
-- 🔭 Actively developing **[Next.js App](https://github.com/ashrafulhossain1/next-js-app)**  
+  - 🔭 Actively developing **[Next.js App](https://github.com/ashrafulhossain1/next-js-app)**  
   - 🌱 Learning more about **Next.js & TypeScript**  
   - ⚡ Fun Fact: I believe in learning through failure. **Work → Fail → Learn → Repeat** 🔄
 
