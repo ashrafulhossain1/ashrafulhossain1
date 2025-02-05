@@ -11,7 +11,7 @@
 
 <h2 align="left">🚀 Current Endeavors</h2>
 <ul>
-<li>🔭 working on: **[Next.js App](https://github.com/ashrafulhossain1/next-js-app)**</li>
+- 🔭 Actively developing **[Next.js App](https://github.com/ashrafulhossain1/next-js-app)**  
   <li>🌱 Learning more about **Next.js & TypeScript**</li>
   <li>⚡ Fun Fact: I believe in learning through failure. **Work → Fail → Learn → Repeat** 🔄</li>
 </ul>
