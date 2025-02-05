@@ -23,7 +23,7 @@
 
 ## 🚀 Current Endeavors  
 - 🔭 Actively developing **[Next.js App](https://github.com/ashrafulhossain1/next-js-app)**  
-- 🌱 Advancing my expertise in **Next.js & TypeScript** to enhance my skill set 🚀  
+- 🌱 Advancing my expertise in **Next.js & TypeScript** to enhance my skill set  
 - ⚡ Fun Fact: I embrace failure as a stepping stone to success—**Work → Fail → Learn → Repeat** 🔄  
 
 ###
