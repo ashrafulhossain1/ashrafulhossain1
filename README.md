@@ -2,15 +2,6 @@
   <img src="https://i.ibb.co.com/6RrJRNm6/github-banner-resized.jpg" />
 </div>
 
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashrafulhossain1&theme=dark&hide_border=true&stroke=FF1CF7&background=0D1117&currStreakNum=FF1CF7&currStreakLabel=FF1CF7&sideLabels=00F0FF&ring=FF1CF7" alt="GitHub Streak Stats" />
-  
-  <!-- GitHub Top Languages -->
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashrafulhossain1&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-
-</div>
 
 <h1 align="left">Ashraful Hossain</h1>
 
