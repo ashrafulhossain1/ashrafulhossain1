@@ -10,16 +10,11 @@
 
 <h2 align="left">Front-End Developer</h2>
 
-## 📊 GitHub Stats  
-<div align="center" style="display: flex; flex-direction: row; justify-content: space-around;">
+## 📊 GitHub Stats & 🚀 Most Used Languages  
+<div align="center" style="display: flex; flex-direction: row; justify-content: space-between; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ashrafulhossain1&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
-
-## 🚀 Most Used Languages  
-<div align="center" style="display: flex; flex-direction: row; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulhossain1&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
 
 
 <h3 align="left">About Me</h3>
