@@ -12,7 +12,10 @@
 
 ###
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ashrafulhossain1&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+## 📊 GitHub Streak  
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=ashrafulhossain1&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
+</a>
 
 <h3 align="left">About Me</h3>
 
