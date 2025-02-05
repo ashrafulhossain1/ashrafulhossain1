@@ -11,9 +11,9 @@
 <h2 align="left">Front-End Developer</h2>
 
 ###
-
+## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafulhossain1&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrafulhossain1&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 
