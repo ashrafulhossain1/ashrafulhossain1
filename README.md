@@ -3,7 +3,7 @@
 </div>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ashrafulhossain1&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </a>
 
 <h1 align="left">Ashraful Hossain</h1>
