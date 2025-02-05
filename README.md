@@ -10,11 +10,13 @@
 
 <h2 align="left">Front-End Developer</h2>
 
-## 📊 GitHub Streak  
-
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashrafulhossain1&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+## 🚀 Most Used Languages  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulhossain1&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 
