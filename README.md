@@ -15,7 +15,7 @@
   - ⚡ Fun Fact: I believe in learning through failure. **Work → Fail → Learn → Repeat** 🔄
 
 
-<h2 align="left">🛠️ My Development Stack</h2>
+<h2 align="center">🛠️ My Development Stack</h2>
 
 ## 🚀 Frontend
 <div align="center">
