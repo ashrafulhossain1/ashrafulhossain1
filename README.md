@@ -8,11 +8,6 @@
 
 <h2 align="left">Front-End Developer</h2>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ashrafulhossain1&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-
-
 <h3 align="left">About Me</h3>
 
 ###
@@ -78,13 +73,13 @@
 
 ## 📊 GitHub Stats & 🚀 Most Used Languages  
 <div align="center" style="display: flex; flex-direction: row; justify-content: space-between; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrafulhossain1&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ashrafulhossain1&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulhossain1&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ###
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafulhossain1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+
 
 ###
