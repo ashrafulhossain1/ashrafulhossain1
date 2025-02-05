@@ -21,13 +21,10 @@
 ###
 
 
-- 🔭 I’m currently working on **[Your Current Project]**  
-- 🌱 I’m learning **[Technologies or Skills You're Learning]**  
-- 👯 I’m open to collaborating on **[Relevant Projects or Open Source Contributions]**  
-- 💬 Ask me about **[Your Strongest Skills]**  
-- 📫 How to reach me: **[Your Contact Info]**  
-- ⚡ Fun fact: **[Something Unique About You]**  
-
+## 🚀 Current Endeavors  
+- 🔭 Actively developing **[Next.js App](https://github.com/ashrafulhossain1/next-js-app)**  
+- 🌱 Advancing my expertise in **Next.js & TypeScript** to enhance my skill set 🚀  
+- ⚡ Fun Fact: I embrace failure as a stepping stone to success—**Work → Fail → Learn → Repeat** 🔄  
 
 ###
 
