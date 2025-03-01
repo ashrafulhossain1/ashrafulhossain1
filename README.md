@@ -12,7 +12,7 @@
 
 ## 🚀 Current Endeavors  
   - 🔭 Actively developing **[Next.js App](https://github.com/ashrafulhossain1/next-js-app)**  
-  - 🌱 Learning more about **Next.js, TypeScript, Mongoose, C++ **  
+  - 🌱 Learning more about <h1>Next.js, TypeScript, Mongoose, C++ </h2>
   - ⚡ Fun Fact: I believe in learning through failure. **Work → Fail → Learn → Repeat** 🔄
 
 
